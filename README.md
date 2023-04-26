@@ -1,6 +1,6 @@
 # LibreriaVirtual
 
-Trabajo integrador del curos Java
+Trabajo integrador del curos: Desarrollador Java Inicial
 
 Integrantes del grupo:
 •	Angelica Del Valle Estaba
