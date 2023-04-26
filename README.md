@@ -9,4 +9,4 @@ Integrantes del grupo:
 •	Francisco Kin
 
 
-el repositorio esta compuesto de la carpeta del proyecto, exportada de Eclipse, y un ejecutable jar que abre una ventana de cmd en Windows. 
+el repositorio esta compuesto de la carpeta del proyecto, exportada de Eclipse, y un ejecutable jar que abre una ventana de cmd en Windows (en donde se corre el programa).
