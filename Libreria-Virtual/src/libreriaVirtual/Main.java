@@ -40,12 +40,13 @@ public class Main extends Funciones_main{
 	public static void main(String[] args) throws IOException  {
 		
 		//esto se usa para crear el jar ejecutable
+		/*
 		if (System.console() == null) {
 		    Runtime.getRuntime().exec(new String[]{"cmd","/c","start","cmd.exe","/k","java -jar LibreriaVirtual.jar"});
 		} else {
-		    // Coloca aquí el código que deseas ejecutar si ya se encuentra en una ventana de cmd
+			
 		}
-		
+		*/
 		
 		
 		Scanner sc = new Scanner(System.in);
